@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/monsters-searchengine/static/css/main.776f3345.chunk.css",
+    "main.js": "/monsters-searchengine/static/js/main.ea495d22.chunk.js",
+    "main.js.map": "/monsters-searchengine/static/js/main.ea495d22.chunk.js.map",
+    "runtime-main.js": "/monsters-searchengine/static/js/runtime-main.2800bce7.js",
+    "runtime-main.js.map": "/monsters-searchengine/static/js/runtime-main.2800bce7.js.map",
+    "static/js/2.bb7480b0.chunk.js": "/monsters-searchengine/static/js/2.bb7480b0.chunk.js",
+    "static/js/2.bb7480b0.chunk.js.map": "/monsters-searchengine/static/js/2.bb7480b0.chunk.js.map",
+    "static/js/3.7eb9e59c.chunk.js": "/monsters-searchengine/static/js/3.7eb9e59c.chunk.js",
+    "static/js/3.7eb9e59c.chunk.js.map": "/monsters-searchengine/static/js/3.7eb9e59c.chunk.js.map",
+    "index.html": "/monsters-searchengine/index.html",
+    "static/css/main.776f3345.chunk.css.map": "/monsters-searchengine/static/css/main.776f3345.chunk.css.map",
+    "static/js/2.bb7480b0.chunk.js.LICENSE.txt": "/monsters-searchengine/static/js/2.bb7480b0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/monsters-searchengine/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2800bce7.js",
+    "static/js/2.bb7480b0.chunk.js",
+    "static/css/main.776f3345.chunk.css",
+    "static/js/main.ea495d22.chunk.js"
+  ]
+}
